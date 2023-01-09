@@ -1,0 +1,8 @@
+what are the key things you would consider when creating/consuming an 
+API to ensure that it is secure and reliable?
+
+
+--> first checking weather the Api is secured or not.
+--> Validate the input
+--> Handling the exceptions before performing the process
+--> 
